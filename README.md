@@ -1,4 +1,4 @@
 #hello-world
   
-  chao moi nguoi
-new project
+chao moi nguoi, day la bai test
+chao
